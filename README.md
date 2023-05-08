@@ -46,10 +46,9 @@ It can also just be used to make sure the bot works lol
   (change the 16 to a different version if you wish to install a version of node that is not v16)
 - Install node
   `sudo apt install nodejs`
-- Verify installation
-  `node -v`
+- Verify installation using `node -v`
 
-## Initialise Code
+## Initialise Code
 
 Once your bot token has been acquired, open the folder with the code in and rename `config-example.json` to `config.json`.
 Open the newly renamed `config.json` file, and replace the token area with your bot token.
