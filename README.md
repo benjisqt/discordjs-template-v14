@@ -1,7 +1,5 @@
 ## Introduction
 This is an example bot for Discord.JS V14. Below are the proper steps you need to take to initialise this code.
-
-## Installation
 Before you follow this guide, this bot requires [Node.JS](#install-nodejs-and-npm) version 16.9.0 or higher and [npm](#install-nodejs-and-npm) version 8 or higher. You can check your installed versions of both by running `npm version`
 
 - `git clone https://github.com/benjisqt/discordjs-template-v14.git`
